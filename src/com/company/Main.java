@@ -26,9 +26,7 @@ public class Main {
 	String firstString = "Chips";
 	String secondString = "Chicken";
 
-	System.out.println("I love"firstString + " and "secondString);
-
-
+	System.out.println ( "I love " + firstString + " and " + secondString);
 
 
     }
